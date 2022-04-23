@@ -13,6 +13,11 @@
     background-image: url('./ratgauchesanstexte.png');
     min-height: 100%;
 }
+.responsivebanniere {
+  width: 100%;
+  max-width: 976px;
+  height: auto;
+}
 
 html {
     box-sizing: border-box
@@ -28,11 +33,7 @@ html {
 }
 
 body {
-    .responsivebanniere {
-  width: 100%;
-  max-width: 976px;
-  height: auto;
-}
+    
     margin: 0
 }
 
